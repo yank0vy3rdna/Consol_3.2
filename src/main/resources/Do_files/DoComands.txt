@@ -1,0 +1,6 @@
+info
+help
+show
+history
+insert 4598
+show
